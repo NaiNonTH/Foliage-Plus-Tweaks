@@ -1,8 +1,8 @@
 # Foliage+ Tweaks
 Vivifies the Minecraft world — more features to Minecraft.
 -----
-<img src="https://cdn.modrinth.com/data/3SnHvLxH/images/3e51fc7b480a0ac45ff548e194f2cbcc9edfc506.png" width="420"> <img src="https://cdn.modrinth.com/data/3SnHvLxH/images/8a68a46026aa3f030e366833d5f0848585650059.png" width="420">
-<img src="https://cdn.modrinth.com/data/3SnHvLxH/images/79ca7c1de887015036dbd819bbca8cea9e4f9403.png" width="420"> <img src="https://cdn.modrinth.com/data/3SnHvLxH/images/fb55343e68a42249fe6c195637b1d0cf01701d3d.png" width="420">
+<img src="https://cdn.modrinth.com/data/3SnHvLxH/images/3e51fc7b480a0ac45ff548e194f2cbcc9edfc506.png" width="360"> <img src="https://cdn.modrinth.com/data/3SnHvLxH/images/8a68a46026aa3f030e366833d5f0848585650059.png" width="360">
+<img src="https://cdn.modrinth.com/data/3SnHvLxH/images/79ca7c1de887015036dbd819bbca8cea9e4f9403.png" width="360"> <img src="https://cdn.modrinth.com/data/3SnHvLxH/images/fb55343e68a42249fe6c195637b1d0cf01701d3d.png" width="360">
 
 [More Screenshots](https://modrinth.com/resourcepack/foliage%2B-tweaks/gallery)
 
