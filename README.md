@@ -39,3 +39,5 @@ Thank you to these guys for the inspiration!
 ## Additional Links
 
 [Old Versions](https://www.mediafire.com/folder/1zdxe4icsr5li/Old+Versions) | [Add-Ons](https://www.mediafire.com/folder/eq92kgo6oxfeo/Add-On(s))
+
+*imported from the [modrinth](https://modrinth.com/resourcepack/foliage+-tweaks) page*
